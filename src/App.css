@@ -1,0 +1,18 @@
+.photoContainer {
+  display: flex;
+  justify-content: space-around;
+  width: 80%;
+  margin: auto;
+}
+
+.appHeader {
+  text-align: center;
+  padding: 4vh;
+  background-color: aquamarine;
+}
+
+.img {
+  max-width: 150px;
+  max-height: 150px;
+  box-shadow: 8px 3px 11px rgba(0,0,0,.3);
+}
